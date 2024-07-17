@@ -15,7 +15,7 @@ Embracing the spirit of collaboration and knowledge-sharing, I'm excited to anno
 💻 Get Started 💻
 Ready to embark on a journey of innovation and creativity? Visit the GitHub repository to access the complete source code and dive into the world of modern web development. Explore, learn, and reimagine – the possibilities are limitless.
 
-GitHub Repository: [https://github.com/sonigaurav1/resturant-website]
+GitHub Repository: [https://github.com/sonigaurav1/restaurant-website]
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gaurav-web-dev/) to share your thoughts and experiences
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have the following tools installed:
      
 ### Clone the Repository
 ```bash
-git clone https://github.com/sonigaurav1/resturant-website.git
+git clone https://github.com/sonigaurav1/restaurant-website.git
 ```
 
 ### Install Dependencies
